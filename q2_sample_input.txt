@@ -1,0 +1,64 @@
+5
+3 6
+apple lettuce limes avocado
+onion cranberries apple limes
+escarole corn28corn apple lettuce limes avocado
+limes avocado
+apple lettuce
+limes
+apple
+app
+apple limes
+3 3
+apple iphone se 2
+iphone 11 max pro
+iphone 11 pro max
+apple iphone
+max pro
+iphone
+4 5
+m m m
+m m m
+n m m
+m n m
+m
+m m
+n
+n m
+m n
+5 1
+iphone 11 max pro
+iphone 11 pro max
+max pro iphone 11
+max pro 11 iphone
+pro max 11 iphone
+11 max
+10 10
+a b c d e f g
+a b c d e f g h
+a b c d e f g h i
+a b c d e f g h i j
+a b c d e f g h i j k
+a b c d e f g h i j k l
+a b c d e f g h i j k l m
+a b c d e f g h i j k l m n
+a b c d e f g h i j k l m n o
+a b c d e f g h i j k l m n o p
+e f g
+e f g h
+e f g h i
+e f g h i j
+e f g h i j k
+e f g h i j k l
+a b c d
+a b c d e
+a b c d e f g
+a b c d e f g h i j k l m n o
+
+1 1
+a
+a
+2 1
+a
+a b
+b
